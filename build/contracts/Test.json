@@ -1,0 +1,123 @@
+{
+  "contractName": "Test",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.5.16+commit.9c3226ce\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"project:/contracts/Test.sol\":\"Test\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/Test.sol\":{\"keccak256\":\"0x1988b48a3a97a167019319b05939502694a555981f36fa60fd6056a6d0054392\",\"urls\":[\"bzz-raw://589ba9c1d87da9d9fa845ba2df883cc74cd8bd428a881ed6ffa1a748a69f5a26\",\"dweb:/ipfs/QmQCFdstgHeBjXKnuBba3uDCZcjzhqWrZ7LawChMCxvZ6K\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603e80601d6000396000f3fe6080604052600080fdfea265627a7a7231582090a98fb79bb84a963c7aec6aaa066dac1f1ac463e63d52e71b7c495f68c4298e64736f6c63430005100032",
+  "deployedBytecode": "0x6080604052600080fdfea265627a7a7231582090a98fb79bb84a963c7aec6aaa066dac1f1ac463e63d52e71b7c495f68c4298e64736f6c63430005100032",
+  "sourceMap": "28:24:1:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;28:24:1;;;;;;;",
+  "deployedSourceMap": "28:24:1:-;;;;;",
+  "source": "pragma solidity >=0.5.0;\r\n\r\ncontract Test {\r\n    \r\n}",
+  "sourcePath": "C:\\Users\\kornk\\Desktop\\ไฟล์น้องต้น\\vote-pet\\contracts\\Test.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/Test.sol",
+    "exportedSymbols": {
+      "Test": [
+        35
+      ]
+    },
+    "id": 36,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 34,
+        "literals": [
+          "solidity",
+          ">=",
+          "0.5",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:24:1"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 35,
+        "linearizedBaseContracts": [
+          35
+        ],
+        "name": "Test",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 36,
+        "src": "28:24:1"
+      }
+    ],
+    "src": "0:52:1"
+  },
+  "legacyAST": {
+    "attributes": {
+      "absolutePath": "project:/contracts/Test.sol",
+      "exportedSymbols": {
+        "Test": [
+          35
+        ]
+      }
+    },
+    "children": [
+      {
+        "attributes": {
+          "literals": [
+            "solidity",
+            ">=",
+            "0.5",
+            ".0"
+          ]
+        },
+        "id": 34,
+        "name": "PragmaDirective",
+        "src": "0:24:1"
+      },
+      {
+        "attributes": {
+          "baseContracts": [
+            null
+          ],
+          "contractDependencies": [
+            null
+          ],
+          "contractKind": "contract",
+          "documentation": null,
+          "fullyImplemented": true,
+          "linearizedBaseContracts": [
+            35
+          ],
+          "name": "Test",
+          "nodes": [
+            null
+          ],
+          "scope": 36
+        },
+        "id": 35,
+        "name": "ContractDefinition",
+        "src": "28:24:1"
+      }
+    ],
+    "id": 36,
+    "name": "SourceUnit",
+    "src": "0:52:1"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.5.16+commit.9c3226ce.Emscripten.clang"
+  },
+  "networks": {
+    "1337": {
+      "events": {},
+      "links": {},
+      "address": "0x99E26a2827fcc89f735835b6687e29C4b6db7E7c",
+      "transactionHash": "0xef30094feef957896bce0321c5e073e32ce51bc8d314f2a212562747e222eb8c"
+    }
+  },
+  "schemaVersion": "3.4.7",
+  "updatedAt": "2022-05-06T13:07:45.754Z",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}

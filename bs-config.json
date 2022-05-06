@@ -1,0 +1,6 @@
+{
+  "server": {
+    "baseDir": ["./src", "./build/contracts"],
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
